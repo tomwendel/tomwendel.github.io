@@ -11,12 +11,12 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "OctoPatch"
+title                    : "Tom Wendel"
 title_separator          : "-"
-subtitle                 : "An awesome integration tool for everything"
+subtitle                 : "Edutainer, Consultant, Papa"
 name                     : &name "AntMe! GmbH" # &name is a YAML anchor which can be *referenced later
-description              : &description "An awesome tool to bring all stuff together"
-url                      : https://octopatchnet.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description ""
+url                      : https://tomwendel.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -123,7 +123,7 @@ footer:
       url: "https://twitter.com/bobstriker"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/OctoPatchNet"
+      url: "https://github.com/tomwendel"
 
 # Reading Files
 include:
