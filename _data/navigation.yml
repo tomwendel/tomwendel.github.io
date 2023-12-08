@@ -1,0 +1,13 @@
+main:
+  - title: Applikation
+    url: /application
+  - title: Use cases
+    url: /usecases
+  - title: Plugins
+    url: /plugins
+
+docs:
+  - title: Another
+    children:
+      - title: tets
+        url: /plugins/midi
